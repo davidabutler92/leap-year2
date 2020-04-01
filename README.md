@@ -8,19 +8,19 @@
 ## Description
 #### The goal of this website is to have the user input the year they were born and they would get results determining wether or not that year is a leap year.
 
-##Specs
-*The program should return when the year is **NOT** a leap year
-  *input example:1993
-  *output example:false
-*The program should return 'true' if the year is divisible by 4
-  *input example:2004
-  *output example:true
-*The program should return 'false' if the year is divisible by 100
-  *input example:1900
-  *output example:false
-*The program should return 'true' if the year is divisible by 400
-  *input example:2000
-  *output example:true
+## Specs
+* The program should return when the year is **NOT** a leap year
+  * input example:1993
+  * output example:false
+* The program should return 'true' if the year is divisible by 4
+  * input example:2004
+  * output example:true
+* The program should return 'false' if the year is divisible by 100
+  * input example:1900
+  * output example:false
+* The program should return 'true' if the year is divisible by 400
+  * input example:2000
+  * output example:true
   
 ## Setup/Installation Requirements
 * Make a new directory to clone the repo in.
